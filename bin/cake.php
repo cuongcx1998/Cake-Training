@@ -1,4 +1,4 @@
-#!/usr/bin/php -q
+y#!/usr/bin/php -q
 <?php
 // Check platform requirements
 require dirname(__DIR__) . '/config/requirements.php';
